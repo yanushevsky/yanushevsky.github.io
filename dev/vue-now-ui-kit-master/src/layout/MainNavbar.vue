@@ -55,7 +55,7 @@
             class="nav-link"
             href="#photo"
         >
-          <i class="now-ui-icons sport_trophy"></i>
+          <i class="now-ui-icons design_image"></i>
           <p>Фото</p>
         </a>
       </li>
