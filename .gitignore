@@ -1,2 +1,4 @@
-/dev/
+/dev/*
+!dev/vue-now-ui-kit-master
 /.idea/
+/.DS_Store/
