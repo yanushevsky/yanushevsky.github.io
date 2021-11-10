@@ -336,6 +336,10 @@ export default {
         font-size: 1.4em;
       }
     }
+
+    @media only screen and (min-width: 992px) {
+        padding-top: 60px;
+    }
   }
   .animated-title {
     color: transparent;
