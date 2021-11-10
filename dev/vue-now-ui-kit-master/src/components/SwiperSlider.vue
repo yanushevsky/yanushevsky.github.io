@@ -101,7 +101,7 @@ export default {
 
   .swiper-button-prev,
   .swiper-button-next {
-    color: #262626d9;
+    color: #2c2c2c;
   }
 }
 
